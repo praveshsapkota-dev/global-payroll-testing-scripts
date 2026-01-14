@@ -24,6 +24,7 @@ To run the payroll outbound generation test, change into the relevant folder:
 
 ```bash
 cd createPayroll
+./run.sh
 ```
 
 ---
@@ -50,6 +51,7 @@ cd generate-outbound
 
 # 2. Go to the payroll script folder:
 cd createPayroll
+./run.sh
 
 # 3. Enter the outbound folder and run the process:
 cd generate-outbound
