@@ -2,7 +2,7 @@
 
 This guide explains how to correctly set up your environment and execute the primary payroll outbound generation tests.
 
-Requirement
+## Requirement (install these package before running the scripts)
 `brew install gettext`
 `brew link --force gettext`
 
