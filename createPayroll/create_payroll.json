@@ -1,0 +1,6 @@
+{
+    "detail-type": "Scheduled Event",
+    "source": "aws.events",
+    "schedule_type": "create_global_payrolls",
+    "cron_run_date": "2026-01-01"
+}

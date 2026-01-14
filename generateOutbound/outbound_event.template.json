@@ -1,0 +1,14 @@
+ {
+    "Records": [
+        {
+            "messageId": "1234",
+            "messageAttributes": {
+                "employer_id": {"stringValue":"${EMPLOYER_ID}"},
+                "total_record_number": {"stringValue": 2},
+                "queue_record_number": {"stringValue": 1}
+            },
+            "body": "{\"employer_id\": \"${EMPLOYER_ID}\"}",
+            "eventSource": "aws:sqs"
+        }
+    ]
+}
